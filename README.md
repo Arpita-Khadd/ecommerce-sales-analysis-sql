@@ -83,5 +83,10 @@ These tables are connected using primary and foreign key relationships.
 ## Author
 
 **Arpita Khadd**
+Author
 
-Aspiring Data Analyst | SQL | Power BI | Python | Excel
+Arpita Khadd
+
+🎓 B.Tech (Electronics & Computer Engineering)
+📊 Aspiring Data Analyst
+💻 SQL | Power BI | Python | Excel
